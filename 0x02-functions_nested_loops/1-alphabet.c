@@ -3,6 +3,8 @@
 /**
  * main - Entry point
  *
+ * print_alphabet: print alphabets in small letter
+ *
  * Return: Always 0
  */
 void print_alphabet(void)
