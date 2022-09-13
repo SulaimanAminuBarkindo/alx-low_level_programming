@@ -11,7 +11,8 @@ int main(void)
 	int str[] = {95, 112, 117, 116, 99, 104, 97, 114};
 	int arrLength = sizeof(str) / sizeof(int);
 	int i;
-	for(i = 0; i < arrLength; i++)
+
+	for (i = 0; i < arrLength; i++)
 	{
 		_putchar(str[i]);
 	}
