@@ -3,9 +3,7 @@
 /**
  * main - Entry point
  *
- * print_alphabet: print alphabets in small letter
- *
- * Description: It takes ascii value and print its character
+ * print_alphabet - print alphabets in small letter
  *
  * Return: Always 0
  */
