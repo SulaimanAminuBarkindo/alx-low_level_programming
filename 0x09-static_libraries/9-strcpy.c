@@ -1,6 +1,4 @@
-char *_strcpy(char *dest, char *src);
-
-int main()
+char *_strcpy(char *dest, char *src)
 {
 	return (0);
 }

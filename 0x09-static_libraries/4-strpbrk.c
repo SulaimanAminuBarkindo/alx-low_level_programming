@@ -1,6 +1,4 @@
-char *_strpbrk(char *s, char *accept);
-
-int main()
+char *_strpbrk(char *s, char *accept)
 {
 	return (0);
 }

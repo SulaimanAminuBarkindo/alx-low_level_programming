@@ -1,6 +1,4 @@
-unsigned int _strspn(char *s, char *accept);
-
-int main()
+unsigned int _strspn(char *s, char *accept)
 {
 	return (0);
 }

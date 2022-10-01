@@ -1,6 +1,4 @@
-char *_strstr(char *haystack, char *needle);
-
-int main()
+char *_strstr(char *haystack, char *needle)
 {
 	return (0);
 }

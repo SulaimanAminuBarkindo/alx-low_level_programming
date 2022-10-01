@@ -1,7 +1,6 @@
+#include "main.h"
 
-void _puts(char *s);
-
-int main()
+void _puts(char *s)
 {
-	return (0);
+
 }

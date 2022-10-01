@@ -1,6 +1,4 @@
-int _abs(int n);
-
-int main()
+int _abs(int n)
 {
 	return (0);
 }

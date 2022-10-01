@@ -1,6 +1,4 @@
-int _isalpha(int c);
-
-int main()
+int _isalpha(int c)
 {
 	return (0);
 }

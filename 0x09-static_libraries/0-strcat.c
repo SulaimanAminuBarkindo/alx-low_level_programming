@@ -1,8 +1,6 @@
-#include <stdio.h>
+#include "main.h"
 
-char *_strcat(char *dest, char *src);
-
-int main()
+char *_strcat(char *dest, char *src)
 {
 	return(0);
 }
