@@ -1,1 +1,1 @@
-This project contain concept of c programming
+README for macros-preprocessor
